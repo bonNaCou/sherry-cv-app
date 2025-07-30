@@ -1,5 +1,4 @@
-# Update the README.md content with the full user-supplied version
-readme_content = """# sherry-cv-app
+# sherry-cv-app
 My CV portfolio as a web app
 
 # Sherry Cyprian – CV Portfolio Web App
@@ -33,10 +32,6 @@ View the website here:
 
 Made with 💙 by Sherry Cyprian  
 _Future-forward creator blending tech, art, and innovation._
-"""
 
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as file:
-    file.write(readme_content)
 
 readme_path
